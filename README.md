@@ -43,7 +43,7 @@ Sign2Speech-mainHead/
 
 ## ⚙️ Setup Instructions
 
-### 1. Clone the Repository
+### Clone the Repository
 
 ```bash
 git clone https://github.com/anuragankit/Voice-for-Voiceless.git
@@ -99,7 +99,5 @@ For best results, ensure good lighting and background contrast.
 🤝 Contributing
 Contributions are welcome! Fork the repo and submit a pull request to improve gesture support, UI/UX, or inference performance.
 
-🖥️ DEVELOPED BY 
-```
-ANKIT ANURAG
-```
+🖥️ DEVELOPED BY ``` ANKIT ANURAG ```
+
